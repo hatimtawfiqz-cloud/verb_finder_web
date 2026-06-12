@@ -1,0 +1,281 @@
+abide,abode/abided,abode/abided
+# mixed
+alight,alighted/alit,alighted/alit
+# mixed
+arise,arose,arisen
+awake,awoke/awakened,awoken/awakened
+# mixed
+backslide,backslid,backslid/backslidden
+bear,bore,born/borne
+beat,beat,beaten
+become,became,become
+befall,befell,befallen
+beget,begot/begat,begotten
+begin,began,begun
+behold,beheld,beheld
+bend,bent,bent
+bereave,bereft/bereaved,bereft/bereaved
+# mixed
+beseech,besought/beseeched,besought/beseeched
+# mixed
+beset,beset,beset
+bestride,bestrode,bestridden
+bet,bet,bet
+betake,betook,betaken
+bid,bid/bade,bid/bidden
+bind,bound,bound
+bite,bit,bitten
+bleed,bled,bled
+blow,blew,blown
+break,broke,broken
+breed,bred,bred
+bring,brought,brought
+broadcast,broadcast,broadcast
+build,built,built
+burn,burned/burnt,burned/burnt
+# mixed
+burst,burst,burst
+buy,bought,bought
+cast,cast,cast
+catch,caught,caught
+chide,chid/chided,chidden/chided
+# mixed
+choose,chose,chosen
+cling,clung,clung
+clothe,clad/clothed,clad/clothed
+# mixed
+come,came,come
+cost,cost,cost
+creep,crept,crept
+cut,cut,cut
+deal,dealt,dealt
+dig,dug,dug
+dive,dove/dived,dived
+# mixed
+do,did,done
+draw,drew,drawn
+dream,dreamed/dreamt,dreamed/dreamt
+# mixed
+drink,drank,drunk
+drive,drove,driven
+dwell,dwelt/dwelled,dwelt/dwelled
+# mixed
+eat,ate,eaten
+fall,fell,fallen
+feed,fed,fed
+feel,felt,felt
+fight,fought,fought
+find,found,found
+flee,fled,fled
+fling,flung,flung
+fly,flew,flown
+forbear,forbore,forborne
+forbid,forbade/forbid,forbidden
+forecast,forecast,forecast
+foresee,foresaw,foreseen
+foretell,foretold,foretold
+forget,forgot,forgotten
+forgive,forgave,forgiven
+forgo,forwent,forgone
+forsake,forsook,forsaken
+forswear,forswore,forsworn
+freeze,froze,frozen
+get,got,got/gotten
+# mixed
+give,gave,given
+go,went,gone
+grind,ground,ground
+grow,grew,grown
+hang,hung/hanged,hung/hanged
+# mixed
+have,had,had
+hear,heard,heard
+hew,hewed,hewn/hewed
+# mixed
+hide,hid,hidden
+hit,hit,hit
+hold,held,held
+hurt,hurt,hurt
+inlay,inlaid,inlaid
+input,input/inputted,input/inputted
+# mixed
+interweave,interwove/interweaved,interwoven/interweaved
+# mixed
+keep,kept,kept
+kneel,knelt/kneeled,knelt/kneeled
+# mixed
+knit,knit/knitted,knit/knitted
+# mixed
+know,knew,known
+lay,laid,laid
+lead,led,led
+lean,leant/leaned,leant/leaned
+# mixed
+leap,leapt/leaped,leapt/leaped
+# mixed
+learn,learnt/learned,learnt/learned
+# mixed
+leave,left,left
+lend,lent,lent
+let,let,let
+lie,lay,lain
+light,lit/lighted,lit/lighted
+# mixed
+lose,lost,lost
+make,made,made
+mean,meant,meant
+meet,met,met
+melt,melted,molten/melted
+# mixed
+miscast,miscast,miscast
+misdeal,misdealt,misdealt
+mishear,misheard,misheard
+mislay,mislaid,mislaid
+mislead,misled,misled
+misread,misread,misread
+misspell,misspelt/misspelled,misspelt/misspelled
+# mixed
+misspend,misspent,misspent
+mistake,mistook,mistaken
+misunderstand,misunderstood,misunderstood
+mow,mowed,mown/mowed
+# mixed
+offset,offset,offset
+outbid,outbid,outbid
+outdo,outdid,outdone
+outgrow,outgrew,outgrown
+outrun,outran,outrun
+outsell,outsold,outsold
+overcome,overcame,overcome
+overdo,overdid,overdone
+overhang,overhung,overhung
+overlay,overlaid,overlaid
+overpay,overpaid,overpaid
+overrun,overran,overrun
+oversee,oversaw,overseen
+overshoot,overshot,overshot
+oversleep,overslept,overslept
+overspend,overspent,overspent
+overwrite,overwrote,overwritten
+partake,partook,partaken
+pay,paid,paid
+plead,pleaded/pled,pleaded/pled
+# mixed
+prove,proved,proven/proved
+# mixed
+put,put,put
+quit,quit,quit
+read,read,read
+rebind,rebound,rebound
+rebroadcast,rebroadcast,rebroadcast
+rebuild,rebuilt,rebuilt
+recast,recast,recast
+redo,redid,redone
+rend,rent,rent
+ride,rode,ridden
+ring,rang,rung
+rise,rose,risen
+run,ran,run
+saw,sawed,sawn/sawed
+# mixed
+say,said,said
+see,saw,seen
+seek,sought,sought
+sell,sold,sold
+send,sent,sent
+set,set,set
+sew,sewed,sewn/sewed
+# mixed
+shake,shook,shaken
+shear,sheared,shorn/sheared
+# mixed
+shine,shone,shone
+shoot,shot,shot
+show,showed,shown/showed
+# mixed
+shrink,shrank/shrunk,shrunk
+# mixed
+shrive,shrove/shrived,shriven/shrived
+# mixed
+shut,shut,shut
+sing,sang,sung
+sink,sank/sunk,sunk
+# mixed
+sit,sat,sat
+slay,slayed/slew,slain/slayed
+# mixed
+sleep,slept,slept
+slide,slid,slid
+sling,slung,slung
+slink,slunk/slinked,slunk/slinked
+# mixed
+slit,slit,slit
+smell,smelt/smelled,smelt/smelled
+# mixed
+smite,smote,smitten
+sow,sowed,sown/sowed
+# mixed
+speak,spoke,spoken
+speed,sped/speeded,sped/speeded
+# mixed
+spell,spelt/spelled,spelt/spelled
+# mixed
+spend,spent,spent
+spill,spilt/spilled,spilt/spilled
+# mixed
+spin,spun,spun
+spit,spat/spit,spat/spit
+# mixed
+split,split,split
+spoil,spoilt/spoiled,spoilt/spoiled
+# mixed
+spread,spread,spread
+spring,sprang/sprung,sprung
+# mixed
+stand,stood,stood
+steal,stole,stolen
+stick,stuck,stuck
+sting,stung,stung
+stink,stank/stunk,stunk
+# mixed
+strew,strewed,strewn/strewed
+# mixed
+stride,strode,stridden
+strike,struck,struck/stricken
+# mixed
+string,strung,strung
+strive,strove,striven
+swear,swore,sworn
+sweep,swept,swept
+swell,swelled,swollen/swelled
+# mixed
+swim,swam,swum
+swing,swung,swung
+take,took,taken
+teach,taught,taught
+tear,tore,torn
+tell,told,told
+think,thought,thought
+thrive,throve/thrived,thrived
+# mixed
+throw,threw,thrown
+thrust,thrust,thrust
+tread,trod,trodden/trod
+# mixed
+typeset,typeset,typeset
+undergo,underwent,undergone
+understand,understood,understood
+uphold,upheld,upheld
+upset,upset,upset
+wake,woke/waked,woken/waked
+# mixed
+wear,wore,worn
+weave,wove/weaved,woven/weaved
+# mixed
+weep,wept,wept
+win,won,won
+wind,wound,wound
+withdraw,withdrew,withdrawn
+withstand,withstood,withstood
+wring,wrung,wrung
+write,wrote,written

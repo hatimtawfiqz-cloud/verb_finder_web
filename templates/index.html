@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <!-- Mobile responsiveness -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>English Verb Finder</title>
+
+    <style>
+        body {
+            font-family: "Segoe UI", sans-serif;
+            background: #f7efff;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* HEADER */
+        .header {
+            background: #4A90E2;
+            color: white;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .title {
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        /* MAIN CONTAINER */
+        .container {
+            padding: 20px;
+            max-width: 600px;
+            margin: auto;
+        }
+
+        /* SEARCH AREA */
+        .search-row {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            margin-bottom: 25px;
+        }
+
+        .search-row label {
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .search-row input[type="text"] {
+            font-size: 18px;
+            padding: 10px;
+            border: 2px solid #ccc;
+            border-radius: 6px;
+        }
+
+        .search-row button {
+            background: #FF4FC3;
+            color: white;
+            border: none;
+            padding: 12px;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        .search-row button:hover {
+            background: #FF6FD0;
+        }
+
+        /* VERB RESULTS */
+        .verb-forms h2 {
+            font-size: 22px;
+            margin-bottom: 10px;
+        }
+
+        .verb-forms p {
+            font-size: 18px;
+            margin: 4px 0;
+        }
+
+        .status {
+            margin-top: 15px;
+            font-size: 14px;
+            color: #555;
+        }
+
+        /* MOBILE OPTIMIZATION */
+        @media (max-width: 480px) {
+            .title {
+                font-size: 20px;
+            }
+
+            .search-row label {
+                font-size: 18px;
+            }
+
+            .search-row input[type="text"] {
+                font-size: 16px;
+                padding: 8px;
+            }
+
+            .search-row button {
+                font-size: 16px;
+                padding: 10px;
+            }
+
+            .verb-forms p {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <div class="title">English Verb Finder</div>
+        <div>Web Version</div>
+    </div>
+
+    <div class="container">
+        <form method="POST">
+            <div class="search-row">
+                <label for="verb">Enter any verb form:</label>
+                <input type="text" id="verb" name="verb" value="{{ query }}">
+                <button type="submit">Search</button>
+            </div>
+        </form>
+
+        <div class="verb-forms">
+            <h2>Verb Forms</h2>
+
+            {% if result %}
+                <p>Base form: {{ result.base }}</p>
+                <p>Past form: {{ result.past }}</p>
+                <p>Past participle: {{ result.pp }}</p>
+            {% else %}
+                <p>Base form: -</p>
+                <p>Past form: -</p>
+                <p>Past participle: -</p>
+            {% endif %}
+        </div>
+
+        {% if status %}
+            <div class="status">{{ status }}</div>
+        {% endif %}
+    </div>
+</body>
+</html>
